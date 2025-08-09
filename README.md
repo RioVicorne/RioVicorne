@@ -1,4 +1,10 @@
 
+
+<h1 align="center">Hi 👋, I'm Rio Vicorne</h1>
+<h3 align="center">💻 Developer | 🎨 Creative Designer | 📱 Content Creator</h3>
+
+---
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Rio.Vicorne) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@rio_vicorne?_t=ZS-8yjjuRRuVdK&_r=1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@regulusconerias?si=CHvL2hobfj4uPUMu) 
 
